@@ -1,4 +1,4 @@
-# sofi 10\09
+# sofi
 Meu nome é Sofia Schafranski Bozza
 
 Tenho 15 anos
